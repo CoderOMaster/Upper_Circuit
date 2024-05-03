@@ -1,7 +1,5 @@
 # A20 Blood Bridge: Bridging the Gap Between Patients and Donors
 
-![Blood Bridge Logo](https://your-website.com/blood_bridge_logo.png)
-
 Welcome to A20 Blood Bridge, the revolutionary web platform designed to bridge the gap between patients in need of blood and willing donors. A20 Blood Bridge is not just a platform; it's a lifeline connecting communities and saving lives.
 
 ## Project Overview
@@ -35,10 +33,6 @@ To experience the transformative power of A20 Blood Bridge, follow these simple 
 
 We welcome contributions from individuals who share our passion for making a positive impact in healthcare. If you have ideas for enhancements or features, please don't hesitate to reach out or submit a pull request.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
 
 Join us in our mission to save lives and make a difference with A20 Blood Bridge. Together, we can build a healthier and more compassionate world. 🩸✨
